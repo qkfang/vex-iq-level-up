@@ -194,7 +194,7 @@ def render(data, target):
         lines += [
             f"**{target}: NSW position {position}/{len(rows)}, source world elementary "
             f"rank {own['rank']}, total {scores['score']} "
-            f"= coding {scores['programming']} + driver {scores['driver']}.",
+            f"= coding {scores['programming']} + driver {scores['driver']}.**",
             "",
         ]
         stronger = [r for r in rows if r["scores"]["score"] > scores["score"]]
@@ -212,6 +212,11 @@ def render(data, target):
                 f"A total of **{peer_scores['score'] + 1}** would exceed that published "
                 f"total: **+{peer_scores['score'] + 1 - scores['score']}** points. "
                 "This is an arithmetic lower bound, not a validated achievable game score.",
+                f"Holding driver at {scores['driver']}, coding would need at least "
+                f"{peer_scores['score'] + 1 - scores['driver']}; holding coding at "
+                f"{scores['programming']}, driver would need at least "
+                f"{peer_scores['score'] + 1 - scores['programming']}. "
+                "Check feasible scoring increments and reliability before selecting either plan.",
                 "",
             ]
         else:
