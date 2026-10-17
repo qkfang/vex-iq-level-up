@@ -11,6 +11,15 @@ the generated standings. Re-verify policies and event details before acting.
 - The page explains that the published total is the ranked Robot Skills score.
   Coding and driver columns are its components; individual maximum columns are
   separate historical peaks used in tie-breaking, not a new combined score.
+- The [NSW Elementary State Championship](https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66514.html)
+  takes place **8 November 2026** at Knox Grammar School, Wahroonga. Its General
+  Info explicitly requires qualification from a NSW event in the 2026–2027 season
+  to enter and states that the championship directly qualifies teams to
+  Australian Nationals in Adelaide. Thus, **NSW qualifying event → NSW Elementary
+  States → Australian Nationals** is a verified pathway, not necessarily the
+  exclusive pathway. The page does not establish qualifying-award allocations
+  or skills invitation thresholds. Digital notebooks are due **2 November**;
+  this is a notebook submission deadline, not a skills qualification cutoff.
 - The organiser's [public Australian Nationals admission listing](https://events.humanitix.com/https-events-vex-com-admin-evententities-64587-preview-general-info)
   describes the **2026–2027 Australian National Championships**, with team
   check-in **5 December 2026** and public competition **6–7 December**. It states
