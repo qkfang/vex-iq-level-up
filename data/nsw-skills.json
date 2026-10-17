@@ -1,0 +1,2492 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-17T07:25:35+00:00",
+  "season_id": 203,
+  "season_name": "VEX IQ Robotics Competition 2026-2027: Level Up",
+  "source_url": "https://events.vex.com/api/seasons/203/skills?post_season=0&grade_level=Elementary",
+  "standings_url": "https://events.vex.com/robot-competitions/vex-iq-competition/standings/skills?country=14&region=759&grade_level=Elementary",
+  "scope": "Australia / New South Wales / Elementary / VEX IQ",
+  "world_elementary_count": 662,
+  "australia_elementary_count": 121,
+  "teams": [
+    {
+      "rank": 167,
+      "team": {
+        "id": 184669,
+        "program": "VIQRC",
+        "teamRegId": 436990,
+        "team": "21350K",
+        "teamName": "VEXecution",
+        "organization": "Trinity Grammar Preparatory School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21350K\" target=\"_blank\">21350K</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 138,
+        "programming": 72,
+        "driver": 66,
+        "combinedStopTime": 0,
+        "maxProgramming": 72,
+        "maxDriver": 66,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-14 22:53:20",
+        "driverScoredAt": "2026-10-14 23:17:22"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 179,
+      "team": {
+        "id": 154262,
+        "program": "VIQRC",
+        "teamRegId": 443232,
+        "team": "2076B",
+        "teamName": "Those Guys In The Middle",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076B\" target=\"_blank\">2076B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5306",
+        "startDate": "2026-09-21",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 132,
+        "programming": 60,
+        "driver": 72,
+        "combinedStopTime": 0,
+        "maxProgramming": 60,
+        "maxDriver": 72,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-20 23:31:04",
+        "driverScoredAt": "2026-09-21 02:21:35"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 181,
+      "team": {
+        "id": 154263,
+        "program": "VIQRC",
+        "teamRegId": 443233,
+        "team": "2076C",
+        "teamName": "Potato Supremacy",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076C\" target=\"_blank\">2076C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5306",
+        "startDate": "2026-09-21",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 132,
+        "programming": 48,
+        "driver": 84,
+        "combinedStopTime": 0,
+        "maxProgramming": 48,
+        "maxDriver": 84,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-20 23:46:21",
+        "driverScoredAt": "2026-09-21 00:09:33"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 187,
+      "team": {
+        "id": 169466,
+        "program": "VIQRC",
+        "teamRegId": 436989,
+        "team": "21350H",
+        "teamName": "Mochi Mechs",
+        "organization": "Trinity Grammar Preparatory School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21350H\" target=\"_blank\">21350H</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4633",
+        "startDate": "2026-08-18",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 126,
+        "programming": 36,
+        "driver": 90,
+        "combinedStopTime": 0,
+        "maxProgramming": 36,
+        "maxDriver": 90,
+        "progStopTime": 18,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-07-29 01:14:38",
+        "driverScoredAt": "2026-08-18 03:29:31"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 216,
+      "team": {
+        "id": 155622,
+        "program": "VIQRC",
+        "teamRegId": 443237,
+        "team": "2076G",
+        "teamName": "Atom",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076G\" target=\"_blank\">2076G</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 114,
+        "programming": 48,
+        "driver": 66,
+        "combinedStopTime": 10,
+        "maxProgramming": 48,
+        "maxDriver": 66,
+        "progStopTime": 10,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-14 22:24:02",
+        "driverScoredAt": "2026-10-15 01:39:09"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 256,
+      "team": {
+        "id": 112214,
+        "program": "VIQRC",
+        "teamRegId": 442917,
+        "team": "4613P",
+        "teamName": "Barker Pinkbacks",
+        "organization": "Barker College",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/4613P\" target=\"_blank\">4613P</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 96,
+        "programming": 32,
+        "driver": 64,
+        "combinedStopTime": 0,
+        "maxProgramming": 32,
+        "maxDriver": 64,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-11 00:10:37",
+        "driverScoredAt": "2026-09-11 00:57:15"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 296,
+      "team": {
+        "id": 154708,
+        "program": "VIQRC",
+        "teamRegId": 442918,
+        "team": "4613Y",
+        "teamName": "Barker Yellowbacks",
+        "organization": "Barker College",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/4613Y\" target=\"_blank\">4613Y</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 80,
+        "programming": 0,
+        "driver": 80,
+        "combinedStopTime": 20,
+        "maxProgramming": 48,
+        "maxDriver": 80,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-08-18 03:34:14",
+        "driverScoredAt": "2026-09-11 00:15:10"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 299,
+      "team": {
+        "id": 122776,
+        "program": "VIQRC",
+        "teamRegId": 439952,
+        "team": "6510G",
+        "teamName": "Girafafafafa",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510G\" target=\"_blank\">6510G</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5307",
+        "startDate": "2026-10-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 80,
+        "programming": 16,
+        "driver": 64,
+        "combinedStopTime": 35,
+        "maxProgramming": 16,
+        "maxDriver": 64,
+        "progStopTime": 35,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-13 23:24:12",
+        "driverScoredAt": "2026-10-13 22:59:44"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 340,
+      "team": {
+        "id": 122775,
+        "program": "VIQRC",
+        "teamRegId": 439951,
+        "team": "6510F",
+        "teamName": "built different.",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510F\" target=\"_blank\">6510F</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5307",
+        "startDate": "2026-10-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 64,
+        "programming": 16,
+        "driver": 48,
+        "combinedStopTime": 55,
+        "maxProgramming": 16,
+        "maxDriver": 48,
+        "progStopTime": 50,
+        "driverStopTime": 5,
+        "progScoredAt": "2026-10-14 01:14:36",
+        "driverScoredAt": "2026-10-14 01:42:13"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 379,
+      "team": {
+        "id": 153302,
+        "program": "VIQRC",
+        "teamRegId": 435877,
+        "team": "21350A",
+        "teamName": "Go Atoms",
+        "organization": "Trinity Grammar Preparatory School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21350A\" target=\"_blank\">21350A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 54,
+        "programming": 12,
+        "driver": 42,
+        "combinedStopTime": 46,
+        "maxProgramming": 12,
+        "maxDriver": 42,
+        "progStopTime": 46,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-14 23:56:45",
+        "driverScoredAt": "2026-10-15 00:32:14"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 389,
+      "team": {
+        "id": 185718,
+        "program": "VIQRC",
+        "teamRegId": 439841,
+        "team": "46658A",
+        "teamName": "Bean Bandits",
+        "organization": "Artarmon Public School",
+        "city": "Artarmon",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/46658A\" target=\"_blank\">46658A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 51,
+        "programming": 3,
+        "driver": 48,
+        "combinedStopTime": 39,
+        "maxProgramming": 3,
+        "maxDriver": 48,
+        "progStopTime": 39,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-11 03:37:33",
+        "driverScoredAt": "2026-09-11 01:26:37"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 395,
+      "team": {
+        "id": 153303,
+        "program": "VIQRC",
+        "teamRegId": 436983,
+        "team": "21350B",
+        "teamName": "The Tech Turtles",
+        "organization": "Trinity Grammar Preparatory School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21350B\" target=\"_blank\">21350B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4922",
+        "startDate": "2026-09-02",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 48,
+        "programming": 6,
+        "driver": 42,
+        "combinedStopTime": 0,
+        "maxProgramming": 6,
+        "maxDriver": 42,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-02 02:10:55",
+        "driverScoredAt": "2026-09-02 00:25:21"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 396,
+      "team": {
+        "id": 154266,
+        "program": "VIQRC",
+        "teamRegId": 443236,
+        "team": "2076F",
+        "teamName": "Hello",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076F\" target=\"_blank\">2076F</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 48,
+        "programming": 0,
+        "driver": 48,
+        "combinedStopTime": 18,
+        "maxProgramming": 0,
+        "maxDriver": 48,
+        "progStopTime": 18,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-15 01:30:01",
+        "driverScoredAt": "2026-10-15 01:52:10"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 425,
+      "team": {
+        "id": 170312,
+        "program": "VIQRC",
+        "teamRegId": 453263,
+        "team": "2076K",
+        "teamName": "Hot Potatoes",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076K\" target=\"_blank\">2076K</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 39,
+        "programming": 12,
+        "driver": 27,
+        "combinedStopTime": 56,
+        "maxProgramming": 12,
+        "maxDriver": 32,
+        "progStopTime": 56,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-15 00:25:22",
+        "driverScoredAt": "2026-09-21 02:43:54"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 430,
+      "team": {
+        "id": 185338,
+        "program": "VIQRC",
+        "teamRegId": 439094,
+        "team": "21300E",
+        "teamName": "Dehydrated Doggo",
+        "organization": "Trinity Grammar Junior School",
+        "city": "Summer Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21300E\" target=\"_blank\">21300E</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 36,
+        "programming": 6,
+        "driver": 30,
+        "combinedStopTime": 48,
+        "maxProgramming": 12,
+        "maxDriver": 33,
+        "progStopTime": 44,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-02 03:52:11",
+        "driverScoredAt": "2026-07-29 03:55:24"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 431,
+      "team": {
+        "id": 153304,
+        "program": "VIQRC",
+        "teamRegId": 436984,
+        "team": "21350C",
+        "teamName": "NUTS ‘N’ BOLTS",
+        "organization": "Trinity Grammar Preparatory School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21350C\" target=\"_blank\">21350C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 36,
+        "programming": 12,
+        "driver": 24,
+        "combinedStopTime": 31,
+        "maxProgramming": 12,
+        "maxDriver": 30,
+        "progStopTime": 31,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-15 00:19:31",
+        "driverScoredAt": "2026-09-02 00:47:04"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 432,
+      "team": {
+        "id": 170313,
+        "program": "VIQRC",
+        "teamRegId": 454020,
+        "team": "2076M",
+        "teamName": "2076M",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076M\" target=\"_blank\">2076M</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5307",
+        "startDate": "2026-10-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 36,
+        "programming": 12,
+        "driver": 24,
+        "combinedStopTime": 20,
+        "maxProgramming": 12,
+        "maxDriver": 30,
+        "progStopTime": 20,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-13 23:34:37",
+        "driverScoredAt": "2026-09-21 00:35:39"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 433,
+      "team": {
+        "id": 188909,
+        "program": "VIQRC",
+        "teamRegId": 436616,
+        "team": "60141A",
+        "teamName": "Waitara Sting Squad",
+        "organization": "Waitara Public School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/60141A\" target=\"_blank\">60141A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5307",
+        "startDate": "2026-10-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 36,
+        "programming": 6,
+        "driver": 30,
+        "combinedStopTime": 52,
+        "maxProgramming": 6,
+        "maxDriver": 32,
+        "progStopTime": 52,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-14 02:02:43",
+        "driverScoredAt": "2026-09-11 00:51:24"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 442,
+      "team": {
+        "id": 140784,
+        "program": "VIQRC",
+        "teamRegId": 439957,
+        "team": "6510N",
+        "teamName": "Tartaruga",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510N\" target=\"_blank\">6510N</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 32,
+        "programming": 0,
+        "driver": 32,
+        "combinedStopTime": 52,
+        "maxProgramming": 3,
+        "maxDriver": 32,
+        "progStopTime": 12,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-21 01:38:49",
+        "driverScoredAt": "2026-10-08 23:20:25"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 443,
+      "team": {
+        "id": 129260,
+        "program": "VIQRC",
+        "teamRegId": 440093,
+        "team": "65280A",
+        "teamName": "The Potato Gems",
+        "organization": "St Catherine's School, Sydney",
+        "city": "Waverley",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/65280A\" target=\"_blank\">65280A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5306",
+        "startDate": "2026-09-21",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 32,
+        "programming": 0,
+        "driver": 32,
+        "combinedStopTime": 48,
+        "maxProgramming": 0,
+        "maxDriver": 32,
+        "progStopTime": 48,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-21 00:45:40",
+        "driverScoredAt": "2026-09-21 02:27:57"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 453,
+      "team": {
+        "id": 184840,
+        "program": "VIQRC",
+        "teamRegId": 439259,
+        "team": "93601F",
+        "teamName": "More Capped Pins",
+        "organization": "Shore",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/93601F\" target=\"_blank\">93601F</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4428",
+        "startDate": "2026-08-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 30,
+        "programming": 12,
+        "driver": 18,
+        "combinedStopTime": 1,
+        "maxProgramming": 12,
+        "maxDriver": 18,
+        "progStopTime": 1,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-08-14 01:48:39",
+        "driverScoredAt": "2026-08-14 00:23:58"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 456,
+      "team": {
+        "id": 197127,
+        "program": "VIQRC",
+        "teamRegId": 436378,
+        "team": "40986A",
+        "teamName": "A_Helicopter",
+        "organization": "Sydney Grammar School, St Ives Preparatory School",
+        "city": "St Ives",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/40986A\" target=\"_blank\">40986A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4663",
+        "startDate": "2026-09-16",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 30,
+        "programming": 0,
+        "driver": 30,
+        "combinedStopTime": 4,
+        "maxProgramming": 0,
+        "maxDriver": 30,
+        "progStopTime": 0,
+        "driverStopTime": 4,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-16 01:52:16"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 458,
+      "team": {
+        "id": 197373,
+        "program": "VIQRC",
+        "teamRegId": 437581,
+        "team": "24888A",
+        "teamName": "Scots Prep Gold",
+        "organization": "The Scots College",
+        "city": "Bellevue Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/24888A\" target=\"_blank\">24888A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 30,
+        "programming": 0,
+        "driver": 30,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 30,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 00:28:49"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 471,
+      "team": {
+        "id": 122772,
+        "program": "VIQRC",
+        "teamRegId": 439948,
+        "team": "6510C",
+        "teamName": "The Handy Hedghogs",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510C\" target=\"_blank\">6510C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 24,
+        "programming": 6,
+        "driver": 18,
+        "combinedStopTime": 48,
+        "maxProgramming": 6,
+        "maxDriver": 18,
+        "progStopTime": 48,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-08 23:35:06",
+        "driverScoredAt": "2026-10-09 00:55:18"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 472,
+      "team": {
+        "id": 154452,
+        "program": "VIQRC",
+        "teamRegId": 439961,
+        "team": "6510T",
+        "teamName": "tompot holland",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510T\" target=\"_blank\">6510T</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 24,
+        "programming": 6,
+        "driver": 18,
+        "combinedStopTime": 35,
+        "maxProgramming": 6,
+        "maxDriver": 18,
+        "progStopTime": 35,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-08 23:33:26",
+        "driverScoredAt": "2026-10-09 00:14:28"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 474,
+      "team": {
+        "id": 197381,
+        "program": "VIQRC",
+        "teamRegId": 437603,
+        "team": "21310B",
+        "teamName": "Vex Agents",
+        "organization": "Santa Maria Del Monte Primary School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21310B\" target=\"_blank\">21310B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4922",
+        "startDate": "2026-09-02",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 24,
+        "programming": 0,
+        "driver": 24,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 24,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-02 03:39:44"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 475,
+      "team": {
+        "id": 197380,
+        "program": "VIQRC",
+        "teamRegId": 437602,
+        "team": "21310A",
+        "teamName": "Team Speed Robots",
+        "organization": "Santa Maria Del Monte Primary School",
+        "city": "STRATHFIELD",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21310A\" target=\"_blank\">21310A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4922",
+        "startDate": "2026-09-02",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 24,
+        "programming": 0,
+        "driver": 24,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 24,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-02 03:58:37"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 490,
+      "team": {
+        "id": 154261,
+        "program": "VIQRC",
+        "teamRegId": 443231,
+        "team": "2076A",
+        "teamName": "Cookie Crumbs 2.0",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076A\" target=\"_blank\">2076A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5306",
+        "startDate": "2026-09-21",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 18,
+        "programming": 0,
+        "driver": 18,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 18,
+        "progStopTime": 35,
+        "driverStopTime": 2,
+        "progScoredAt": "2026-09-11 01:57:41",
+        "driverScoredAt": "2026-10-14 22:35:53"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 492,
+      "team": {
+        "id": 122774,
+        "program": "VIQRC",
+        "teamRegId": 439950,
+        "team": "6510E",
+        "teamName": "the vex cats",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510E\" target=\"_blank\">6510E</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5306",
+        "startDate": "2026-09-21",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 18,
+        "programming": 0,
+        "driver": 18,
+        "combinedStopTime": 7,
+        "maxProgramming": 0,
+        "maxDriver": 18,
+        "progStopTime": 4,
+        "driverStopTime": 3,
+        "progScoredAt": "2026-09-21 01:17:31",
+        "driverScoredAt": "2026-09-20 23:56:44"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 493,
+      "team": {
+        "id": 122778,
+        "program": "VIQRC",
+        "teamRegId": 439954,
+        "team": "6510J",
+        "teamName": "The MASA Penguins",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510J\" target=\"_blank\">6510J</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 18,
+        "programming": 0,
+        "driver": 18,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 18,
+        "progStopTime": 49,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-21 01:48:03",
+        "driverScoredAt": "2026-09-02 06:14:49"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 495,
+      "team": {
+        "id": 198719,
+        "program": "VIQRC",
+        "teamRegId": 441534,
+        "team": "24888E",
+        "teamName": "Scots Prep Diamond",
+        "organization": "The Scots College",
+        "city": "Bellevue Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/24888E\" target=\"_blank\">24888E</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 18,
+        "programming": 0,
+        "driver": 18,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 18,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 01:50:27"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 496,
+      "team": {
+        "id": 185335,
+        "program": "VIQRC",
+        "teamRegId": 439091,
+        "team": "21300B",
+        "teamName": "Vexatron",
+        "organization": "Trinity Grammar Junior School",
+        "city": "Summer Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21300B\" target=\"_blank\">21300B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 18,
+        "programming": 0,
+        "driver": 18,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 18,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 03:59:21"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 499,
+      "team": {
+        "id": 197382,
+        "program": "VIQRC",
+        "teamRegId": 437604,
+        "team": "21310C",
+        "teamName": "Team X ",
+        "organization": "Santa Maria Del Monte Primary School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21310C\" target=\"_blank\">21310C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4922",
+        "startDate": "2026-09-02",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 18,
+        "programming": 0,
+        "driver": 18,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 18,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-02 01:45:18"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 513,
+      "team": {
+        "id": 130220,
+        "program": "VIQRC",
+        "teamRegId": 438004,
+        "team": "23660A",
+        "teamName": "Byte Sized Burgers",
+        "organization": "Loreto Kirribilli",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/23660A\" target=\"_blank\">23660A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 16,
+        "programming": 0,
+        "driver": 16,
+        "combinedStopTime": 14,
+        "maxProgramming": 0,
+        "maxDriver": 16,
+        "progStopTime": 0,
+        "driverStopTime": 14,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-11 02:22:35"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 516,
+      "team": {
+        "id": 163412,
+        "program": "VIQRC",
+        "teamRegId": 443239,
+        "team": "2076J",
+        "teamName": "The Dragons",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076J\" target=\"_blank\">2076J</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5306",
+        "startDate": "2026-09-21",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 16,
+        "programming": 0,
+        "driver": 16,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 16,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-21 01:04:31"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 520,
+      "team": {
+        "id": 153665,
+        "program": "VIQRC",
+        "teamRegId": 436987,
+        "team": "21350F",
+        "teamName": "Radioactive DNAS",
+        "organization": "Trinity Grammar Preparatory School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21350F\" target=\"_blank\">21350F</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 16,
+        "programming": 0,
+        "driver": 16,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 16,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-10-14 23:51:48"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 521,
+      "team": {
+        "id": 130221,
+        "program": "VIQRC",
+        "teamRegId": 438005,
+        "team": "23660B",
+        "teamName": "4 Little Mechanics",
+        "organization": "Loreto Kirribilli",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/23660B\" target=\"_blank\">23660B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 15,
+        "programming": 6,
+        "driver": 9,
+        "combinedStopTime": 24,
+        "maxProgramming": 6,
+        "maxDriver": 9,
+        "progStopTime": 24,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-11 02:06:03",
+        "driverScoredAt": "2026-09-11 02:07:56"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 523,
+      "team": {
+        "id": 154451,
+        "program": "VIQRC",
+        "teamRegId": 439960,
+        "team": "6510S",
+        "teamName": "The fabulous five",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510S\" target=\"_blank\">6510S</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 15,
+        "programming": 3,
+        "driver": 12,
+        "combinedStopTime": 35,
+        "maxProgramming": 3,
+        "maxDriver": 12,
+        "progStopTime": 35,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-09 00:24:22",
+        "driverScoredAt": "2026-10-08 23:28:59"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 524,
+      "team": {
+        "id": 197383,
+        "program": "VIQRC",
+        "teamRegId": 437605,
+        "team": "21310D",
+        "teamName": "Team MC²",
+        "organization": "Santa Maria Del Monte Primary School",
+        "city": "Strathfield",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/21310D\" target=\"_blank\">21310D</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4922",
+        "startDate": "2026-09-02",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 15,
+        "programming": 0,
+        "driver": 15,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 15,
+        "progStopTime": 18,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-07-29 01:15:24",
+        "driverScoredAt": "2026-09-02 03:50:07"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 533,
+      "team": {
+        "id": 122777,
+        "program": "VIQRC",
+        "teamRegId": 439953,
+        "team": "6510H",
+        "teamName": "Tissues For Your Issues",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510H\" target=\"_blank\">6510H</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 12,
+        "programming": 0,
+        "driver": 12,
+        "combinedStopTime": 64,
+        "maxProgramming": 0,
+        "maxDriver": 12,
+        "progStopTime": 59,
+        "driverStopTime": 5,
+        "progScoredAt": "2026-10-09 02:27:04",
+        "driverScoredAt": "2026-10-09 00:51:00"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 534,
+      "team": {
+        "id": 128814,
+        "program": "VIQRC",
+        "teamRegId": 439956,
+        "team": "6510M",
+        "teamName": "YI-FI 4G",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510M\" target=\"_blank\">6510M</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 12,
+        "programming": 0,
+        "driver": 12,
+        "combinedStopTime": 50,
+        "maxProgramming": 0,
+        "maxDriver": 12,
+        "progStopTime": 50,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-09 02:22:28",
+        "driverScoredAt": "2026-10-08 23:32:59"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 535,
+      "team": {
+        "id": 122771,
+        "program": "VIQRC",
+        "teamRegId": 439947,
+        "team": "6510B",
+        "teamName": "NONE",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510B\" target=\"_blank\">6510B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 12,
+        "programming": 0,
+        "driver": 12,
+        "combinedStopTime": 47,
+        "maxProgramming": 0,
+        "maxDriver": 12,
+        "progStopTime": 47,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-09 02:21:51",
+        "driverScoredAt": "2026-10-09 00:26:55"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 537,
+      "team": {
+        "id": 130225,
+        "program": "VIQRC",
+        "teamRegId": 438008,
+        "team": "23660E",
+        "teamName": "SSM Mangoes",
+        "organization": "Loreto Kirribilli",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/23660E\" target=\"_blank\">23660E</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 12,
+        "programming": 0,
+        "driver": 12,
+        "combinedStopTime": 11,
+        "maxProgramming": 0,
+        "maxDriver": 12,
+        "progStopTime": 11,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-11 01:12:24",
+        "driverScoredAt": "2026-09-11 03:35:43"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 539,
+      "team": {
+        "id": 198716,
+        "program": "VIQRC",
+        "teamRegId": 441531,
+        "team": "24888B",
+        "teamName": "Scots Prep Silver",
+        "organization": "The Scots College",
+        "city": "Bellevue Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/24888B\" target=\"_blank\">24888B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 12,
+        "programming": 0,
+        "driver": 12,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 12,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 04:03:56"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 540,
+      "team": {
+        "id": 198717,
+        "program": "VIQRC",
+        "teamRegId": 441532,
+        "team": "24888C",
+        "teamName": "Scots Prep Bronze",
+        "organization": "The Scots College",
+        "city": "Bellevue Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/24888C\" target=\"_blank\">24888C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 12,
+        "programming": 0,
+        "driver": 12,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 12,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 04:07:01"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 546,
+      "team": {
+        "id": 197374,
+        "program": "VIQRC",
+        "teamRegId": 437584,
+        "team": "60141Z",
+        "teamName": "Waitara Hash-brown Hackers",
+        "organization": "Waitara Public School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/60141Z\" target=\"_blank\">60141Z</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 12,
+        "programming": 0,
+        "driver": 12,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 12,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-11 03:54:40"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 562,
+      "team": {
+        "id": 130223,
+        "program": "VIQRC",
+        "teamRegId": 438007,
+        "team": "23660D",
+        "teamName": "The Red Ferraris",
+        "organization": "Loreto Kirribilli",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/23660D\" target=\"_blank\">23660D</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 9,
+        "programming": 3,
+        "driver": 6,
+        "combinedStopTime": 25,
+        "maxProgramming": 3,
+        "maxDriver": 6,
+        "progStopTime": 25,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-11 00:30:52",
+        "driverScoredAt": "2026-09-11 01:36:01"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 563,
+      "team": {
+        "id": 184837,
+        "program": "VIQRC",
+        "teamRegId": 439256,
+        "team": "93601C",
+        "teamName": "Mastermind Magnets",
+        "organization": "Shore",
+        "city": "North Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/93601C\" target=\"_blank\">93601C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4428",
+        "startDate": "2026-08-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 9,
+        "programming": 3,
+        "driver": 6,
+        "combinedStopTime": 0,
+        "maxProgramming": 3,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-08-14 03:22:24",
+        "driverScoredAt": "2026-08-14 02:26:05"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 565,
+      "team": {
+        "id": 129261,
+        "program": "VIQRC",
+        "teamRegId": 440095,
+        "team": "65280B",
+        "teamName": "The Best Beanbag Bandits",
+        "organization": "St Catherine's School, Sydney",
+        "city": "Waverley",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/65280B\" target=\"_blank\">65280B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5306",
+        "startDate": "2026-09-21",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 9,
+        "programming": 0,
+        "driver": 9,
+        "combinedStopTime": 48,
+        "maxProgramming": 0,
+        "maxDriver": 9,
+        "progStopTime": 48,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-21 01:46:31",
+        "driverScoredAt": "2026-09-21 02:00:41"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 566,
+      "team": {
+        "id": 122779,
+        "program": "VIQRC",
+        "teamRegId": 439955,
+        "team": "6510K",
+        "teamName": "Cyber Pear",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510K\" target=\"_blank\">6510K</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5307",
+        "startDate": "2026-10-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 9,
+        "programming": 0,
+        "driver": 9,
+        "combinedStopTime": 45,
+        "maxProgramming": 0,
+        "maxDriver": 9,
+        "progStopTime": 45,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-14 00:05:40",
+        "driverScoredAt": "2026-10-13 23:19:54"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 577,
+      "team": {
+        "id": 122773,
+        "program": "VIQRC",
+        "teamRegId": 439949,
+        "team": "6510D",
+        "teamName": "error 404: cat not found",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510D\" target=\"_blank\">6510D</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 47,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 47,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-10-09 02:26:49",
+        "driverScoredAt": "2026-10-09 01:32:41"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 578,
+      "team": {
+        "id": 140785,
+        "program": "VIQRC",
+        "teamRegId": 439958,
+        "team": "6510P",
+        "teamName": "VEXLEMENTS:)",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510P\" target=\"_blank\">6510P</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 42,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 49,
+        "driverStopTime": 1,
+        "progScoredAt": "2026-09-21 02:18:32",
+        "driverScoredAt": "2026-10-09 01:30:34"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 580,
+      "team": {
+        "id": 154450,
+        "program": "VIQRC",
+        "teamRegId": 439959,
+        "team": "6510R",
+        "teamName": "SUPER Potatoes!!",
+        "organization": "Pymble Ladies College, Sydney, Australia",
+        "city": "Pymble",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/6510R\" target=\"_blank\">6510R</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4695",
+        "startDate": "2026-08-10",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 35,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 35,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-10-09 02:26:20"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 581,
+      "team": {
+        "id": 198720,
+        "program": "VIQRC",
+        "teamRegId": 441535,
+        "team": "24888F",
+        "teamName": "Scots Prep Titanium",
+        "organization": "The Scots College",
+        "city": "Bellevue Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/24888F\" target=\"_blank\">24888F</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 31,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 31,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-07-29 02:00:46",
+        "driverScoredAt": "2026-07-29 01:56:20"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 585,
+      "team": {
+        "id": 173272,
+        "program": "VIQRC",
+        "teamRegId": 437675,
+        "team": "20721B",
+        "teamName": "Robot Loading",
+        "organization": "Ravenswood School for Girls",
+        "city": "Gordon",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/20721B\" target=\"_blank\">20721B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 00:17:01"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 586,
+      "team": {
+        "id": 197128,
+        "program": "VIQRC",
+        "teamRegId": 436379,
+        "team": "40986B",
+        "teamName": "Negative One",
+        "organization": "Sydney Grammar School, St Ives Preparatory School",
+        "city": "St Ives",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/40986B\" target=\"_blank\">40986B</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 01:19:21"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 587,
+      "team": {
+        "id": 198718,
+        "program": "VIQRC",
+        "teamRegId": 441533,
+        "team": "24888D",
+        "teamName": "Scots Prep Platinum",
+        "organization": "The Scots College",
+        "city": "Bellevue Hill",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/24888D\" target=\"_blank\">24888D</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 04:12:24"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 588,
+      "team": {
+        "id": 199331,
+        "program": "VIQRC",
+        "teamRegId": 443653,
+        "team": "19975C",
+        "teamName": "Reddam House ",
+        "organization": "Reddam House North Shore ",
+        "city": "North Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/19975C\" target=\"_blank\">19975C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4428",
+        "startDate": "2026-08-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-08-14 01:41:45"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 595,
+      "team": {
+        "id": 184838,
+        "program": "VIQRC",
+        "teamRegId": 439257,
+        "team": "93601D",
+        "teamName": "Aussie BBQ",
+        "organization": "Shore",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/93601D\" target=\"_blank\">93601D</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4663",
+        "startDate": "2026-09-16",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-16 01:13:21"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 613,
+      "team": {
+        "id": 154265,
+        "program": "VIQRC",
+        "teamRegId": 443235,
+        "team": "2076E",
+        "teamName": "2076E",
+        "organization": "Knox Grammar School",
+        "city": "Wahroonga",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/2076E\" target=\"_blank\">2076E</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5313",
+        "startDate": "2026-10-15",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 6,
+        "programming": 0,
+        "driver": 6,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 6,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-10-15 01:26:33"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 628,
+      "team": {
+        "id": 141730,
+        "program": "VIQRC",
+        "teamRegId": 440097,
+        "team": "65280C",
+        "teamName": "Nuts and Bolts",
+        "organization": "St Catherine's School, Sydney",
+        "city": "Waverley",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/65280C\" target=\"_blank\">65280C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4428",
+        "startDate": "2026-08-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 3,
+        "programming": 0,
+        "driver": 3,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 3,
+        "progStopTime": 28,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-09-21 01:32:41",
+        "driverScoredAt": "2026-08-14 01:32:02"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 630,
+      "team": {
+        "id": 184841,
+        "program": "VIQRC",
+        "teamRegId": 439260,
+        "team": "93601G",
+        "teamName": "Mouldy Microwaves",
+        "organization": "Shore",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/93601G\" target=\"_blank\">93601G</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4428",
+        "startDate": "2026-08-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 3,
+        "programming": 0,
+        "driver": 3,
+        "combinedStopTime": 1,
+        "maxProgramming": 0,
+        "maxDriver": 3,
+        "progStopTime": 1,
+        "driverStopTime": 0,
+        "progScoredAt": "2026-08-14 01:19:38",
+        "driverScoredAt": "2026-08-14 03:20:06"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 631,
+      "team": {
+        "id": 173271,
+        "program": "VIQRC",
+        "teamRegId": 436977,
+        "team": "20721A",
+        "teamName": "Cheesy Claw",
+        "organization": "Ravenswood School for Girls",
+        "city": "Gordon",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/20721A\" target=\"_blank\">20721A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4463",
+        "startDate": "2026-07-29",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 3,
+        "programming": 0,
+        "driver": 3,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 3,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-07-29 01:24:01"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 633,
+      "team": {
+        "id": 184835,
+        "program": "VIQRC",
+        "teamRegId": 439254,
+        "team": "93601A",
+        "teamName": "Redstone Intakers",
+        "organization": "Shore",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/93601A\" target=\"_blank\">93601A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4428",
+        "startDate": "2026-08-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 3,
+        "programming": 0,
+        "driver": 3,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 3,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-08-14 01:11:33"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 634,
+      "team": {
+        "id": 199100,
+        "program": "VIQRC",
+        "teamRegId": 442833,
+        "team": "19975A",
+        "teamName": "Reddam House ",
+        "organization": "Reddam House North Shore ",
+        "city": "North Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/19975A\" target=\"_blank\">19975A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4428",
+        "startDate": "2026-08-14",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 3,
+        "programming": 0,
+        "driver": 3,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 3,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-08-14 01:22:49"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 635,
+      "team": {
+        "id": 197507,
+        "program": "VIQRC",
+        "teamRegId": 438111,
+        "team": "72241A",
+        "teamName": "Wenona IQ JS Team 1",
+        "organization": "Wenona School",
+        "city": "North Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/72241A\" target=\"_blank\">72241A</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-4922",
+        "startDate": "2026-09-02",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 3,
+        "programming": 0,
+        "driver": 3,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 3,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-02 01:10:31"
+      },
+      "eligible": false
+    },
+    {
+      "rank": 637,
+      "team": {
+        "id": 130222,
+        "program": "VIQRC",
+        "teamRegId": 438006,
+        "team": "23660C",
+        "teamName": "Yoyo Robos!",
+        "organization": "Loreto Kirribilli",
+        "city": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "gradeLevel": "Elementary",
+        "link": "<a href=\"https://events.vex.com/teams/VIQRC/23660C\" target=\"_blank\">23660C</a>",
+        "eventRegion": "Australia",
+        "affiliations": [],
+        "eventRegionId": 2414
+      },
+      "event": {
+        "sku": "RE-VIQRC-26-5411",
+        "startDate": "2026-09-11",
+        "seasonName": "VEX IQ Robotics Competition 2026-2027: Level Up"
+      },
+      "scores": {
+        "score": 3,
+        "programming": 0,
+        "driver": 3,
+        "combinedStopTime": 0,
+        "maxProgramming": 0,
+        "maxDriver": 3,
+        "progStopTime": 0,
+        "driverStopTime": 0,
+        "progScoredAt": "",
+        "driverScoredAt": "2026-09-11 02:27:12"
+      },
+      "eligible": false
+    }
+  ]
+}
